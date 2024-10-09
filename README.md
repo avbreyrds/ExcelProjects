@@ -1,4 +1,4 @@
-This is an .xlsm file, also known as an Excel Macro-Enabled Workbook. To use the Job Application Tracker properly, you need to unblock the macros by modifying the properties of the file as follows:
+Some files is saved as .xlsm file, also known as an Excel Macro-Enabled Workbook. To use the Job Application Tracker properly, you need to unblock the macros by modifying the properties of the file as follows:
 
 1. Open Windows File Explorer and navigate to the folder where you saved the file.
 
